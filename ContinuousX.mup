@@ -3,13 +3,43 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "Culture",
-      "id": 2
+    "2": {
+      "title": "GOAL",
+      "id": "4.gd7407791e2176c0f2"
     },
-    "-1": {
-      "title": "Technical Maturity",
-      "id": 3
+    "3": {
+      "title": "Characteristics",
+      "id": "9.gd199e7b3d40f94b66",
+      "ideas": {
+        "1": {
+          "title": "Culture",
+          "id": 2,
+          "attr": {
+            "style": {}
+          }
+        },
+        "2": {
+          "title": "Technical Maturity",
+          "id": 3,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "MEASUREMENTS",
+      "id": "5.gd7407791e2176c0f2",
+      "ideas": {
+        "1": {
+          "title": "MTTR",
+          "id": "7.gd7407791e2176c0f2"
+        },
+        "2": {
+          "title": "CYCLETIME",
+          "id": "8.gd7407791e2176c0f2"
+        }
+      }
     }
   }
 }
