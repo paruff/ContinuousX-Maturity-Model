@@ -1,0 +1,15 @@
+{
+  "title": "ContinuousX",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Culture",
+      "id": 2
+    },
+    "-1": {
+      "title": "Technical Maturity",
+      "id": 3
+    }
+  }
+}
