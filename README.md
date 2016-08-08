@@ -7,10 +7,6 @@
 * X being design, development, testing, integration, deployment, delivery, security scanning
 * monitoring measurements
 
-References:
-http://modernagile.org/
-disciplinedagiledelivery.org
-
 2. Who is this model for? Target audience
 * Software companies
 * Non-IT?
@@ -40,5 +36,10 @@ Stage 2:
 * Zebia labs
 * Forrester maturiy model commissioned by thoughtworks
 * 
+
 9. What are the characteristics of CX organization?
 * Trust-based
+
+References:
+http://modernagile.org/
+disciplinedagiledelivery.org
