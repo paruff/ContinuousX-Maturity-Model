@@ -4,7 +4,7 @@
 1. What is ContinuousX?
 - is the delivery of continuous value on demand 
 * Flow-based rather timeboxed
-* X being design, development, testing, integration, deployment, delivery, security scanning
+* X being Value, design, development, testing, integration, deployment, delivery, security scanning
 * monitoring measurements
 
 2. Who is this model for? Target audience
