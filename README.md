@@ -10,6 +10,11 @@
 * soft measures
 * hard measures
 
+* cx dimensions
+- individual
+- team
+- organization
+
 8-8-2016
 1. What is ContinuousX?
 - is the delivery of continuous value on demand 
