@@ -5,7 +5,10 @@
 * look into flow-based and lean metrics (ex: cycle time)
 * measures: frequency of deployment, MTTR, cycle time, defects density, defect discovery (where does it happen in the process?)
 * our focus would be on technology for now (IT focused)
-* 
+
+12. characteristics of cx
+* soft measures
+* hard measures
 
 8-8-2016
 1. What is ContinuousX?
